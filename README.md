@@ -1,8 +1,6 @@
 <div align="center">
-    <img width="456" src="https://raw.githubusercontent.com/yuges-code/package-template/master/assets/logo.png">
+    <img src="https://raw.githubusercontent.com/yuges-code/package-template/master/assets/logo.png">
 </div>
-
-</br>
 
 <div align="center">
     <h1>Package template</h1>
